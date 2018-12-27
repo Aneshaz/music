@@ -1,5 +1,6 @@
 <template>
  <div class='hello'>
+   <span><router-link to='/list'>首页</router-link></span>
    <span><router-link to='/login'>手机号登录</router-link></span>
    <span><router-link to='/registy'>注册</router-link></span>
  </div>
